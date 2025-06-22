@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=Inconsolata:wght@200..900&family=Maven+Pro:wght@400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --brand-principal1: #E3646E;
+    --brand-principal2: #BB72E9;
+    --brand-principal3: #3996DB;
+    --brand-principal4: #82BC4F;
+    --brand-principal5: #EABD5F;
+    
+    --brand-base1: #0D0E11;
+    --brand-base2: #16181D;
+    --brand-base3: #292C34;
+    --brand-base4: #878EA1;
+    --brand-base5: #C0C4CE;
+    --brand-base6: #E2E4E9;
+    
+    
+
+    --font-family1: 'Asap', sans-serif;
+    --font-family2: 'Inconsolata', sans-serif;
+    --font-family3: 'Maven Pro', sans-serif;
+    --title-lg-asap: 800 56px/120% var(--font-family1);
+    --title-md-asap: 800 24px/120% var(--font-family1);
+    --title-sm-asap: 800 16px/120% var(--font-family1);
+    --title-sub-inconsolata: 400 20px/120% var(--font-family2);
+    --text-md-mavenpro: 100 16px/140% var(--font-family3);
+    --text-sm-mavenpro: 100 14px/140% var(--font-family3);
+}
